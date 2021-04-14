@@ -4,9 +4,8 @@
 //  Description    : This is the implementation of the cache for the BLOCK
 //                   driver.
 //
-//  Author         : [Name]
-//  Last Modified  : [Date]
-//
+
+
 
 // Includes
 #include <stdio.h>

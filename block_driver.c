@@ -4,8 +4,8 @@
 //  Description    : This is the implementation of the standardized IO functions
 //                   for used to access the BLOCK storage system.
 //
-//  Author         : Patrick McDaniel
-//
+
+
 
 // Includes
 #include <stdlib.h>

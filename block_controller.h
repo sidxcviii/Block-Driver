@@ -7,8 +7,7 @@
 //  Description    : This is the interface of the controller for the BLOCK
 //                   memory system interface.
 //
-//  Author         : Patrick McDaniel
-//  Last Modified  : Mon Jul 8 00:00:00 EDT 2019
+
 //
 
 // Include

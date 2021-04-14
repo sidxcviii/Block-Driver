@@ -7,7 +7,7 @@
 //  Description    : This is the header file for the standardized IO functions
 //                   for used to access the BLOCK storage system.
 //
-//  Author         : Patrick McDaniel
+
 //
 
 // Include files

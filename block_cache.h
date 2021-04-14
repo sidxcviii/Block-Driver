@@ -7,8 +7,6 @@
 //  Description    : This is the header file for the implementation of the
 //                   frame cache for the BLOCK memory system driver.
 //
-//  Author         : Patrick McDaniel
-//  Last Modified  : Mon Jul 8 00:00:00 EDT 2019
 //
 
 // Includes
